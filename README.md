@@ -1,0 +1,2 @@
+# mqperiodogram
+M-quantile periodogram
