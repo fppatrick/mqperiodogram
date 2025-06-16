@@ -11,7 +11,7 @@ Key features:
 - Robust spectral estimation via M-quantile regression
 - Handles both even and odd-length time series
 - Returns spectral estimates and corresponding frequencies
-- Works with any quantile level (0 < τ < 1)
+- Works with any quantile level (0 < tau < 1)
 
 ---
 
