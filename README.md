@@ -40,7 +40,7 @@ spec_high <- mqper(x, tau = 0.75) # Upper quartile
 
 # Plot comparison
 plot(spec_med$freq, spec_med$spec, type = "l", col = "black",
-     main = "Quantile Periodogram Comparison",
+     main = "M-quantile Periodogram Comparison",
      xlab = "Frequency", ylab = "Spectral Density")
 lines(spec_low$freq, spec_low$spec, col = "blue")
 lines(spec_high$freq, spec_high$spec, col = "red")
