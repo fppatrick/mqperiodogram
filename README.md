@@ -1,4 +1,4 @@
-# Robust M-Quantile Periodogram (`mqper`)
+# Robust M-quantile periodogram (`mqper`)
 
 An R function for computing robust spectral estimates of time series data using M-quantile regression.
 
